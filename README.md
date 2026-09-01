@@ -399,6 +399,4 @@ For questions or support, contact the developer via Telegram or the website list
   Made with ❤️ by <b>THE SAZ 🏴‍☠️</b>
 </p>
 
-
-با آپلود این فایل‌ها، مخزن شما حرفه‌ای، زیبا و کامل خواهد بود.  
-موفق باشی! 🏴‍☠️
+! STAR THIS REPOSITORY TO MAKE ME HAPPY🏴‍☠️
