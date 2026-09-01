@@ -19,9 +19,9 @@
   <!-- Emoji -->
   <text x="80" y="120" font-family="Segoe UI Emoji, Apple Color Emoji, Noto Color Emoji, sans-serif" font-size="100" fill="#ffffff">🏴‍☠️</text>
   <!-- Title -->
-  <text x="180" y="100" font-family="Fira Code, monospace" font-size="42" fill="#00e5ff" font-weight="bold" filter="url(#glow)">PROMPT MAKER V 0.0.4</text>
+  <text x="180" y="100" font-family="Fira Code, monospace" font-size="42" fill="#00e5ff" font-weight="bold" filter="url(#glow)">     PROMPT MAKER V 0.0.4</text>
   <!-- Subtitle -->
-  <text x="180" y="140" font-family="Arial, sans-serif" font-size="24" fill="#ffffff" opacity="0.9">∆∆∆∆^THE SAZ^∆∆∆∆</text>
+  <text x="180" y="140" font-family="Arial, sans-serif" font-size="24" fill="#ffffff" opacity="0.9">      ∆∆∆∆^THE SAZ^∆∆∆∆</text>
   <!-- Decorative line -->
   <line x1="180" y1="160" x2="1000" y2="160" stroke="#00e5ff" stroke-width="2" stroke-dasharray="10 5" opacity="0.6" />
 </svg>
