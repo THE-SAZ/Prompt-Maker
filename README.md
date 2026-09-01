@@ -1,9 +1,7 @@
 
 <!-- ==================== TOP BANNER ==================== -->
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=00E5FF&center=true&vCenter=true&width=800&height=80&lines=%E2%9C%A6+PROMPT+MAKER+V0.0.4+%E2%9C%A6;%E2%88%86%E2%88%86%E2%88%86%E2%88%86%5ETHE+SAZ%5E%E2%88%86%E2%88%86%E2%88%86%E2%88%86;By+THE+SAZ+%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F;%D8%B5%D8%A7%D9%86%D8%B9+%D8%A7%D9%84%D8%A8%D8%B1%D9%88%D9%85%D8%A8%D8%AA+%7C+%D0%9F%D1%80%D0%BE%D0%BC%D0%BF%D1%82-%D0%BC%D0%B5%D0%B9%D0%BA%D0%B5%D1%80+%7C+%E6%8F%90%E7%A4%BA%E8%AF%8D%E5%88%B6%E9%80%A0%E8%80%85" alt="Typing SVG" />
-  </a>
+  <img src="assets/banner.svg" alt="Prompt Maker Banner" width="100%" />
 </p>
 
 <!-- ==================== BADGES ==================== -->
@@ -30,22 +28,23 @@
 
 <!-- ==================== LANGUAGE SELECTOR ==================== -->
 <p align="center">
-  <b>🌐 Languages:</b> 
-  <a href="#english">English</a> • 
-  <a href="#فارسی">فارسی</a> • 
-  <a href="#العربية">العربية</a> • 
-  <a href="#русский">Русский</a> • 
+  <b>🌐 Choose your language:</b><br>
+  <a href="#english">English</a> •
+  <a href="#فارسی">فارسی</a> •
+  <a href="#العربية">العربية</a> •
+  <a href="#русский">Русский</a> •
   <a href="#中文">中文</a>
 </p>
 
 ---
 
-<!-- ==================== ENGLISH SECTION ==================== -->
-<h1 id="english" align="center">🇬🇧 English</h1>
-
+<!-- ==================== COMMON INTRO (ENGLISH) ==================== -->
 <p align="center">
   <b>🚀 A smart activation system that turns any AI model into a professional prompt maker.</b>
 </p>
+
+<!-- ==================== ENGLISH SECTION ==================== -->
+<h1 id="english" align="center">🇬🇧 English</h1>
 
 ## ✨ Introduction
 
@@ -381,7 +380,7 @@ Now, confirm that you have understood these instructions by outputting the Welco
 
 ---
 
-<!-- ==================== COMMON SECTIONS (ENGLISH) ==================== -->
+<!-- ==================== COMMON SECTIONS ==================== -->
 ## 📄 License
 
 This project is licensed under the **MIT License**. See [LICENSE](LICENSE) for details.
@@ -400,3 +399,6 @@ For questions or support, contact the developer via Telegram or the website list
   Made with ❤️ by <b>THE SAZ 🏴‍☠️</b>
 </p>
 
+
+با آپلود این فایل‌ها، مخزن شما حرفه‌ای، زیبا و کامل خواهد بود.  
+موفق باشی! 🏴‍☠️
