@@ -1,4 +1,4 @@
-```markdown
+
 <!-- ==================== TOP BANNER ==================== -->
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -399,4 +399,4 @@ For questions or support, contact the developer via Telegram or the website list
 <p align="center">
   Made with ❤️ by <b>THE SAZ 🏴‍☠️</b>
 </p>
-```
+
